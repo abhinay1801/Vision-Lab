@@ -15,7 +15,7 @@ VisionLab solves these problems by providing an **immersive, flexible, and scala
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - **Interactive Simulations** – Perform experiments with step-by-step guidance.  
 - **Automated Data Processing** – Real-time calculation, tabulation, and graph generation.  
 - **Assignments & Grading** – Teachers can assign tasks and evaluate students.  
@@ -26,11 +26,11 @@ VisionLab solves these problems by providing an **immersive, flexible, and scala
 ---
 
 ## Goals & Social Impact
-✔ Make **STEM education accessible** for rural and underprivileged students  
-✔ Reduce dependency on costly lab infrastructure  
-✔ Encourage **creativity, problem-solving, and critical thinking**  
-✔ Save **time, cost, and resources** for institutions  
-✔ Promote **scalable, flexible education models**  
+- Make **STEM education accessible** for rural and underprivileged students  
+- Reduce dependency on costly lab infrastructure  
+- Encourage **creativity, problem-solving, and critical thinking**  
+- Save **time, cost, and resources** for institutions  
+- Promote **scalable, flexible education models**  
 
 ---
 
